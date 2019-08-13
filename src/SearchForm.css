@@ -1,0 +1,44 @@
+.searchForm {
+  text-align: center;
+  position: fixed;
+  margin: 0 auto;
+  width: 59%;
+  top: 0;
+  background: white;
+  z-index: 1000;
+}
+
+#queryInput {
+  height: 45px;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 10px;
+  font-weight: 600;
+  width: 300px;
+}
+
+#queryInput:first-child {
+  margin-top: 0.67em;
+}
+
+#categoryInput {
+  height: 35px;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 10px;
+  font-weight: 600;
+  width: 300px;
+  margin-top: 10px;
+}
+
+.searchForm input[type="submit"] {
+  width: 300px;
+  margin: 15px 0;
+  padding: 25px 15px;
+  border: none;
+  background: rebeccapurple;
+  font-weight: 600;
+  color: white;
+  font-size: 1rem;
+  border-radius: 5px;
+}

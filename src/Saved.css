@@ -1,0 +1,14 @@
+#savedArea h1 {
+  margin: 0;
+}
+
+.savedResult,
+.faIcon {
+  color: rebeccapurple;
+  font-weight: 600;
+}
+
+.faIcon:hover {
+  transform: scale(1.2);
+  transition: 0.25s;
+}
