@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/full-beaker/static/css/main.c3776d5e.chunk.css",
+    "main.js": "/full-beaker/static/js/main.9a0a5ab9.chunk.js",
+    "main.js.map": "/full-beaker/static/js/main.9a0a5ab9.chunk.js.map",
+    "runtime~main.js": "/full-beaker/static/js/runtime~main.ab325ff4.js",
+    "runtime~main.js.map": "/full-beaker/static/js/runtime~main.ab325ff4.js.map",
+    "static/js/2.ea87d87b.chunk.js": "/full-beaker/static/js/2.ea87d87b.chunk.js",
+    "static/js/2.ea87d87b.chunk.js.map": "/full-beaker/static/js/2.ea87d87b.chunk.js.map",
+    "index.html": "/full-beaker/index.html",
+    "precache-manifest.b8d51f967ca5fdb4223f3a52c4da6542.js": "/full-beaker/precache-manifest.b8d51f967ca5fdb4223f3a52c4da6542.js",
+    "service-worker.js": "/full-beaker/service-worker.js",
+    "static/css/main.c3776d5e.chunk.css.map": "/full-beaker/static/css/main.c3776d5e.chunk.css.map"
+  }
+}
